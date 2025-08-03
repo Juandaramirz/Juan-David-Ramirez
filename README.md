@@ -1,4 +1,4 @@
-# Página web de Trufa 🐾
+# Página web de Trufa 
 
 Este proyecto es una página web dedicada a Trufa, mi gata Bombay adoptada de 2 años. Aquí podrás conocer más sobre su personalidad, características y ver una galería de fotos.
 
