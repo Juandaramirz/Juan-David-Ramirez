@@ -12,9 +12,9 @@ Este proyecto es una página web dedicada a Trufa, mi gata Bombay adoptada de 2 
 
 ## Estructura del proyecto
 
-Uso de <header>, <nav>, <main>, <section>, <article>, <aside> y <footer> para organizar el contenido de manera significativa
+Uso de header, nav, main, section, article, aside y footer para organizar el contenido de manera significativa
 
-Jerarquía clara de encabezados (<h1> a <h3>)
+Jerarquía clara de encabezados (h1 a h3)
 
 ## Para mejorar la accesibilidad se hizo lo siguiente:
 
